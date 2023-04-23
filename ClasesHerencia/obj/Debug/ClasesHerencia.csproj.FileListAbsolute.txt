@@ -6,3 +6,11 @@ D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.S
 D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
 D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
 D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.AssemblyReference.cache
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.SuggestedBindingRedirects.cache
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
+D:\visual Studio\Claseherencia\Clase_Herencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb

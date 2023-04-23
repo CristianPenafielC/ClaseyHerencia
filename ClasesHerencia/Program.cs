@@ -78,7 +78,7 @@ namespace ClasesHerencia
             {
                 Cuenta = "Andylk",
                 Password = "253132",
-                Nombre = "Andres",
+                Nombre = "Juancho",
                 Matricula = "sfagb32",
                 Edad = 20,
             });

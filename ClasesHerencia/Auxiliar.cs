@@ -8,5 +8,8 @@ namespace ClasesHerencia
 {
     internal class Auxiliar
     {
+        public double sueldo {get;set;}
+
+        public int Hora {get;set;}
     }
 }
