@@ -1,0 +1,8 @@
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.AssemblyReference.cache
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
+D:\Visual Studio\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
